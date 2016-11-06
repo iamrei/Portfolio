@@ -7387,6 +7387,23 @@ font-weight: 400;
   margin-bottom: 5%;
 }
 
+
+
+body.welcome { 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 100%;
+  width: 100%;
+  background-position: center center;
+
+}
+
+
 /*
   ========================================
   additionals for responsive
