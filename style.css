@@ -8370,6 +8370,10 @@ font-weight: 400;
   margin: 0 auto ;
 }
 
+.container {
+  width: 98%;
+}
+
 /*
   ========================================
   additionals for about,skills_footer
