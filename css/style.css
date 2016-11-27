@@ -6393,6 +6393,11 @@ h1, h2, h3, h4, h5, h6 {
   background: none !important;
   color: #e32929;
 }
+
+/*=====================
+  nav header style
+=====================*/
+
 #fh5co-header .navbar-brand {
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -6402,7 +6407,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   padding-bottom: 1em;
   font-family: "Roboto Slab", arial, sans-serif;
-  background: #e32929;
+  /*background: #e32929;*/
   color: #fff;
 }
 
